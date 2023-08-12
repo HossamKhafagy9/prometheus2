@@ -1,5 +1,4 @@
 # prometheus2
-Sure, I can help you with your questions about Prometheus. 
 
 # 1) How do I trigger a Prometheus alert?
 To trigger a Prometheus alert, you need to define alerting rules in Prometheus configuration files. These alerting rules specify the conditions that should trigger an alert and the actions that should be taken when the alert is fired. The actions can be sending an email, SMS, or pushing a notification to a chat platform like Slack. 
